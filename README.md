@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="51%" height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math18br&layout=compact&border_color=21262d&title_color=f0e243&text_color=f0e242&bg_color=0d1117" />
+  <img width="51%" height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math18br&layout=compact&border_color=21262d&title_color=2196f3&text_color=2196f3&bg_color=0d1117" />
 </div>
 <div align="center">
   <img align="center" width="14%" height="105px" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
