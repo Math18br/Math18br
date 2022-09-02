@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Math18br 
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... Python, JavaScript and Java!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... you can contact me through this email: matheusleao585@gmail.com
+<div align="center">
+  <img width="51%" height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math18br&layout=compact&border_color=21262d&title_color=f0e243&text_color=f0e242&bg_color=0d1117" />
+</div>
+<div align="center">
+  <img align="center" width="14%" height="105px" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" width="14%" height="105px" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" width="14%" height="105px" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" width="14%" height="105px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" width="14%" height="105px" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div><br/>
 
-<!---
-Math18br/Math18br is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![snake gif](https://github.com/Math18br/Math18br/blob/output/github-contribution-grid-snake.svg)
